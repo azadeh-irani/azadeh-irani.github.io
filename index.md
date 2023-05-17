@@ -29,7 +29,7 @@ I’m excited to announce that I recently completed a data analysis project on Y
 
 
 
-- [Project 1 Title](http://example.com/)
+<!-- - [Project 1 Title](http://example.com/) -->
 <!-- - [Project 2 Title](http://example.com/) -->
 <!-- - [Project 3 Title](http://example.com/) -->
 <!-- - [Project 4 Title](http://example.com/) -->
