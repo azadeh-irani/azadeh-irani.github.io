@@ -14,7 +14,7 @@ I’m excited to announce that I recently completed a data analysis project on Y
 
 ---
 
-### ### Projects Listed
+### Projects Listed
 
 - [Text Data Analysis By Python(Youtube Case Study)](https://www.linkedin.com/pulse/text-data-analysis-python-youtube-case-study-azadeh-irani)
 ---
