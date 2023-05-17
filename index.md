@@ -1,8 +1,3 @@
-## Portfolio
-
----
-
-### Category Name 1 
 ## My Data Analytics Portfolio
 
 
@@ -22,18 +17,6 @@ I’m excited to announce that I recently completed a data analysis project on Y
 ### ### Projects Listed
 
 - [Text Data Analysis By Python(Youtube Case Study)](https://www.linkedin.com/pulse/text-data-analysis-python-youtube-case-study-azadeh-irani)
-
-
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
-
 ---
 <!--[Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -44,19 +27,10 @@ I’m excited to announce that I recently completed a data analysis project on Y
 -->
 ---
 
-### Category Name 2
+
 
 - [Project 1 Title](http://example.com/)
 <!-- - [Project 2 Title](http://example.com/) -->
 <!-- - [Project 3 Title](http://example.com/) -->
 <!-- - [Project 4 Title](http://example.com/) -->
 <!-- - [Project 5 Title](http://example.com/) -->
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
