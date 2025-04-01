@@ -11,6 +11,20 @@
 I’m excited to announce that I recently completed a data analysis project on YouTube comments and video specs using Python! The project involved collecting data from YouTube, cleaning and preprocessing it, and conducting sentiment and emoji analysis. The analysis yielded insights into frequently used words and emojis in user comments. Additionally, the project examined YouTube video details to identify trends and correlations between specific parameters such as likes, comments, views, video category, and the impact of punctuation on views. The findings indicated that the Music category receives the most likes, and negative words like “worst” and “terrible” are common in user comments. The project concludes by highlighting limitations and areas for further investigation. I hope this helps! Let me know if you have any other questions. I would like to express my gratitude to @Nariman Jafarieshlaghi for being an amazing colleague with whom I had the pleasure of working on a joint project. His contributions and insights were invaluable to the success of the project.
 <br>
 ---
+---
+
+[📦 Inventory Analysis with Power BI](https://app.powerbi.com/groups/me/reports/4771c90f-c6b0-47d8-b936-5f4c90aa8d68/2a8b0ad73778eae609d9?experience=power-bi)  
+<img src="images/demo.gif" width="300"/>  
+<br>
+This Power BI dashboard was built to analyze inventory performance in the ready-to-eat department of a grocery store. The goal was to improve profitability and reduce losses from unsold products.
+
+**Highlights:**
+- Calculated **inventory turnover** to measure efficiency
+- Built visualizations for **COGS**, **profit**, and **sales by country**
+- Created a clean one-page dashboard for business decisions
+- Recommended changes to ordering strategy based on data insights
+
+<br>
 
 ---
 
