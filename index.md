@@ -13,6 +13,25 @@ I’m excited to announce that I recently completed a data analysis project on Y
 ---
 ---
 
+[📊 Superstore Sales and Profit Analysis](#)  
+<img src="images/superstore.jpg" width="300"/>  
+<br>
+In this Power BI project, I analyzed the Superstore dataset to visualize key metrics like **Total Sales**, **Profit**, and **Discount Effectiveness**. The dashboard provides insights by **region**, **segment**, and **product categories**, helping uncover opportunities to improve business performance.
+
+**Key Visualizations:**
+- 📍 Sales and Profit by Region (stacked bar chart)
+- 👥 Sales and Profit by Segment (bar chart)
+- 📦 Sales and Profit by Sub-Category (breakdown chart)
+- 💸 Discount Effectiveness (pie chart)
+- 📊 Average Order Value (KPI indicator)
+
+**Tools Used:** Power BI, Superstore Dataset  
+This project strengthened my data visualization skills and helped deliver actionable insights for business decision-making.
+
+<br>
+
+---
+
 [📦 Inventory Analysis with Power BI](https://app.powerbi.com/groups/me/reports/4771c90f-c6b0-47d8-b936-5f4c90aa8d68/2a8b0ad73778eae609d9?experience=power-bi)  
 <img src="images/demo.gif" width="300"/>  
 <br>
