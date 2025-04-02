@@ -16,7 +16,7 @@ I’m excited to announce that I recently completed a data analysis project on Y
 ---
 
 [📊 Superstore Sales and Profit Analysis](https://app.powerbi.com/groups/me/reports/521d833a-9ffd-42fc-bf8b-f6b0d161e18b/7f99c92198bc34105cb1?experience=power-bi)  
-<img src="images/superstore.jpg" width="300"/>  
+<img src="images/Superstore.jpg" width="300"/>  
 <br>
 In this Power BI project, I analyzed the Superstore dataset to visualize key metrics like **Total Sales**, **Profit**, and **Discount Effectiveness**. The dashboard provides insights by **region**, **segment**, and **product categories**, helping uncover opportunities to improve business performance.
 
