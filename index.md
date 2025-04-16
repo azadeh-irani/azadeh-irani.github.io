@@ -12,7 +12,9 @@ I’m excited to announce that I recently completed a data analysis project on Y
 <br>
 ---
 ---
-## [Analyzing Healthcare Data in Power BI]((https://app.powerbi.com/groups/me/reports/da4d9a28-2e9b-4f5d-a640-60e458937c56/dceaf307347caa306738?experience=power-bi)
+## Turning Data into Meaningful Insights in Power BI
+
+[Healthcare Analytics Dashboard](https://app.powerbi.com/groups/me/reports/da4d9a28-2e9b-4f5d-a640-60e458937c56/dceaf307347caa306738?experience=power-bi)
 
 <img src="images/healthstats.png" alt="Healthcare Analytics Dashboard" width="300" />
 
