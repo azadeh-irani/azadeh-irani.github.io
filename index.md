@@ -12,6 +12,26 @@ I’m excited to announce that I recently completed a data analysis project on Y
 <br>
 ---
 ---
+## [Analyzing Healthcare Data in Power BI]((https://app.powerbi.com/groups/me/reports/da4d9a28-2e9b-4f5d-a640-60e458937c56/dceaf307347caa306738?experience=power-bi)
+
+<img src="images/healthstats.png" alt="Healthcare Analytics Dashboard" width="300" />
+
+⚕️ **Hospital Performance Uncovered:**  
+I connected to an anonymized hospital discharge dataset, cleaned and shaped it in Power BI, then modeled it for easy exploration.
+
+💡 **Metrics & Benchmarks:**  
+Using DAX, I created measures for **Average LOS**, **Average Cost per Discharge**, and **benchmark comparisons** to highlight how each hospital stacks up.
+
+✨ **Interactive Visuals:**  
+I added **conditional formatting** to call out outliers and used **scatter plots** with reference lines to visually pinpoint efficiency gaps.
+
+♻️ **Root Cause Focus:**  
+With filters and slicers, users can see how **patient severity**, **mortality risk**, or **location** might drive longer stays or higher costs.
+
+The result? **A clear, dynamic dashboard** that makes it fun to spot trends, ask deeper questions, and **spark real improvements** in patient outcomes. It’s not just numbers anymore—it’s **healthcare analytics** made easy!
+
+[**View My Healthcare Analytics Dashboard**](https://app.powerbi.com/groups/me/reports/da4d9a28-2e9b-4f5d-a640-60e458937c56/dceaf307347caa306738?experience=power-bi)
+
 
 ---
 
